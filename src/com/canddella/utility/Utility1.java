@@ -1,10 +1,10 @@
 package com.canddella.utility;
 
-public class Report {
+public class Utility1 {
 
 	public static void main(String[] args) {
-		
-		   
+		// TODO Auto-generated method stub
+
 	}
 
 }
