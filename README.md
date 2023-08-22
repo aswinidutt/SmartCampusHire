@@ -1,2 +1,2 @@
-# SmartCampusHire
+#aswinidutt. SmartCampusHire
 CoreJava  MySQL Application
