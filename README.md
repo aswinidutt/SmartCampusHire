@@ -1,0 +1,2 @@
+# SmartCampusHire
+CoreJava  MySQL Application
